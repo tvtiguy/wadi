@@ -98,7 +98,7 @@ function Services() {
                 </div>
                 <div>
                   <p className="text-wine-100 text-sm mb-1">Monthly fee with WADI</p>
-                  <p className="text-3xl font-bold text-vine">As low as $99/month</p>
+                  <p className="text-3xl font-bold text-white">As low as $99/month</p>
                 </div>
                 <div className="border-t border-wine-700 pt-6">
                   <p className="text-wine-100 text-sm">
