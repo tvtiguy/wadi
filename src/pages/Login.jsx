@@ -32,7 +32,7 @@ function Login() {
               Check back soon for access to your account.
             </p>
             <a
-              href="mailto:info@weineappdev.com"
+              href="mailto:info@wineappdev.com"
               className="text-wine-900 font-semibold hover:text-wine-700 inline-flex items-center"
             >
               Contact us for early access

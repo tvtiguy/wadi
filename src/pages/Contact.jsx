@@ -31,13 +31,13 @@ function Contact() {
 
             {/* Email CTA */}
             <a
-              href="mailto:info@weineappdev.com"
+              href="mailto:info@wineappdev.com"
               className="btn-primary inline-flex items-center text-lg"
             >
               <svg className="w-5 h-5 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
-              info@weineappdev.com
+              info@wineappdev.com
             </a>
           </div>
 
@@ -61,8 +61,8 @@ function Contact() {
                 </svg>
               </div>
               <h3 className="font-display text-xl text-wine-900 mb-2">Email</h3>
-              <a href="mailto:info@weineappdev.com" className="text-wine-700 hover:text-wine-900 transition-colors">
-                info@weineappdev.com
+              <a href="mailto:info@wineappdev.com" className="text-wine-700 hover:text-wine-900 transition-colors">
+                info@wineappdev.com
               </a>
             </div>
           </div>
