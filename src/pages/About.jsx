@@ -10,7 +10,7 @@ function About() {
       name: 'Darryl Nicholson',
       role: 'Co-Founder',
       bio: 'After leaving British Columbia and Nortel in the rearview mirror, Darryl came to Oregon to be immersed in the startup world. After completing exits with Janrain and Legit Script he\'s ready to start his next adventure.',
-      image: null, // Add path when available
+      image: '/darryl-nicholson.png',
     },
     {
       name: 'Ken Rhodes',
